@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Taxi Viana](taxiviana.pt)
 
-- 🌱 I’m currently learning **Git, GitHub, React**
+- 🌱 I’m currently learning **Git, GitHub, Python**
 
 - 📝 I regularly write articles on [www.revista-programar.info](www.revista-programar.info)
 
